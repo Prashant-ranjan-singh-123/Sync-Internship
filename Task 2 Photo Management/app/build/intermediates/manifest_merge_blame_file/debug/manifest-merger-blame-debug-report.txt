@@ -1,0 +1,77 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.androidcodeman.simpleimagegallery"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission
+11-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:5:5-7:35
+12        android:name="android.permission.READ_EXTERNAL_STORAGE"
+12-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:6:9-64
+13        android:required="true" />
+13-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:7:9-32
+14    <uses-permission
+14-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:8:5-10:35
+15        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+15-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:9:9-65
+16        android:required="true" />
+16-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:10:9-32
+17
+18    <application
+18-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:12:5-35:19
+19        android:allowBackup="true"
+19-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:13:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] /home/prashant/.gradle/caches/transforms-2/files-2.1/476e418bae6a1646436b14a2350f3166/core-1.1.0/AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:14:9-43
+23        android:label="@string/app_name"
+23-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:15:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:16:9-54
+25        android:supportsRtl="true"
+25-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:17:9-35
+26        android:testOnly="true"
+27        android:theme="@style/AppTheme" >
+27-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:18:9-40
+28        <activity
+28-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:19:9-21:20
+29            android:name="com.androidcodeman.simpleimagegallery.ImageDisplay"
+29-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:19:19-47
+30            android:screenOrientation="portrait" >
+30-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:20:13-49
+31        </activity>
+32        <activity
+32-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:22:9-30:20
+33            android:name="com.androidcodeman.simpleimagegallery.MainActivity"
+33-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:23:13-41
+34            android:screenOrientation="portrait" >
+34-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:24:13-49
+35            <intent-filter>
+35-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:25:13-29:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:26:17-69
+36-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:26:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:28:17-77
+38-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:28:27-74
+39            </intent-filter>
+40        </activity>
+41
+42        <meta-data
+42-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:32:9-34:57
+43            android:name="preloaded_fonts"
+43-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:33:13-43
+44            android:resource="@array/preloaded_fonts" />
+44-->/home/prashant/AndroidProjects/Android Gallery/app/src/main/AndroidManifest.xml:34:13-54
+45    </application>
+46
+47</manifest>
