@@ -1,6 +1,6 @@
 # This repository is created for SYNC INTERNSHIP TASKS
 
-### Offer Letter from OASIS INFOBYTE
+### Offer Letter from SYNC Internship
 ![Photo](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Sync-Internship/main/Sync%20Offer%20Letter.jpg)
 
 ### I have complete 4 tasks in Java development domain:
