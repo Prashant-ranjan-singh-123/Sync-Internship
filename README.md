@@ -4,10 +4,10 @@
 ![Photo](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Sync-Internship/main/Sync%20Offer%20Letter.jpg)
 
 ### Internship Completion Certificate
-![Photo](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Sync-Internship/main/Sync%20Offer%20Letter.jpg)
+![Photo](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Sync-Internship/main/Internship.jpg)
 
 ### Letter of Recommendation
-![Photo](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Sync-Internship/main/Sync%20Offer%20Letter.jpg)
+![Photo](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Sync-Internship/main/LOR.jpg)
 
 
 ### I have complete 4 tasks in Java development domain:
