@@ -3,6 +3,13 @@
 ### Offer Letter from SYNC Internship
 ![Photo](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Sync-Internship/main/Sync%20Offer%20Letter.jpg)
 
+### Internship Completion Certificate
+![Photo](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Sync-Internship/main/Sync%20Offer%20Letter.jpg)
+
+### Letter of Recommendation
+![Photo](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Sync-Internship/main/Sync%20Offer%20Letter.jpg)
+
+
 ### I have complete 4 tasks in Java development domain:
 
 - [Task 1 - Tic Tac Toe](https://github.com/Prashant-ranjan-singh-123/Sync-Internship/tree/main/Task%201%20Tic%20Tac%20Toe)
